@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/kanban
+    url: jdbc:postgresql://192.168.99.100:5432/kanban
     username: postgres
     password: postgres
     driver-class-name: org.postgresql.Driver
